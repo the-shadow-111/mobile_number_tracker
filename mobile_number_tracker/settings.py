@@ -79,7 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'number_tracker',
-        'USER': 'bot',
+        'USER': 'admin',
         'PASSWORD': 'Delta123',
         'HOST': 'localhost',
         'PORT': '',
